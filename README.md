@@ -42,6 +42,6 @@
    python3 homework.py
    ```
 
-## Автор
+## Авторы
 
 - [@JUSTUCKER](https://github.com/JUSTUCKER) and [@yandex-praktikum](https://github.com/yandex-praktikum)
